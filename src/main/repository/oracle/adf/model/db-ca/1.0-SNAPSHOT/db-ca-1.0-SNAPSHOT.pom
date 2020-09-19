@@ -1,0 +1,8 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<!-- TODO CarmelonHaldon: Enlace simbólico a C:\__home\__CarmelonHaldon\bin\sqldeveloper-19.2.1.247.2212-x64\modules\oracle.adf.model\db-ca.jar -->
+	<groupId>oracle.adf.model</groupId>
+	<artifactId>db-ca</artifactId>
+	<version>1.0-SNAPSHOT</version>
+</project>
